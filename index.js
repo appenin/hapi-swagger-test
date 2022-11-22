@@ -30,6 +30,7 @@ const ser = async () => {
     {
       plugin: HapiSwagger,
       options: {
+        reuseDefinitions: false,
         info: {
           title: "Test API Documentation",
           description: "This is a sample example of API documentation.",

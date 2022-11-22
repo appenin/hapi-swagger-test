@@ -13,7 +13,7 @@
     "@hapi/vision": "^6.1.0",
     "blipp": "^4.0.2",
     "hapi": "^18.1.0",
-    "hapi-swagger": "^15.0.0",
+    "hapi-swagger": "https://github.com/appenin/hapi-swagger/tarball/45d6dbb51a8f26c909c95b379bf00b4e3aa98f96",
     "joi": "^17.4.2"
   },
   "keywords": [],
